@@ -1,0 +1,11 @@
+{
+  "name": "interactive_node",
+  "version": "0.0.1",
+  "description": "creating an interactive program using node cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Hill",
+  "license": "ISC"
+}
